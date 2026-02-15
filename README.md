@@ -23,4 +23,4 @@ I am a self-taught developer dedicated to hardware sovereignty. I don't believe 
 
 *"Trust is good, but `make zImage` is better."*
 
-[Portfolio/Blog] · [LinkedIn] · [Twitter/X]
+<!--[Portfolio/Blog] · [LinkedIn] · [Twitter/X]-->
