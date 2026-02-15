@@ -10,7 +10,7 @@ I am a self-taught developer dedicated to hardware sovereignty. I don't believe 
 * **Mobile First:** Developing, compiling, and deploying directly from **Termux**.
 
 ### 🔭 Currently Working On
-* 📱 Optimizing [Geek / Qualcomn Snapdragon 675] for peak performance and minimal overhead.
+* 📱 Optimizing [ geek kernel / Qualcomn Snapdragon 675 ] for peak performance and minimal overhead.
 * 🔧 Refining my Neovim Lua modules for a faster C-development workflow.
 * 🧬 Deep-diving into memory management and scheduler tunables.
 
