@@ -12,6 +12,7 @@ I am a self-taught developer dedicated to hardware sovereignty. I don't believe 
 ### 🔭 Currently Working On
 * 📱 Optimizing [ geek kernel / Qualcomn Snapdragon 675 ] for peak performance and minimal overhead.
 * 🔧 Refining my Neovim Lua modules for a faster C-development workflow.
+* 🔧 Refining my Dotfiles for having a nice / cool development workflow.
 * 🧬 Deep-diving into memory management and scheduler tunables.
 
 ### 💬 Let's Talk About
