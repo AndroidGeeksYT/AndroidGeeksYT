@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true" width="400" alt="Shiroko">
+</p>
+
 # ⚡ Low-Level Enthusiast | Android Kernel Dev
 
 > If I can't audit the source, I don't run the binary.
