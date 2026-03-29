@@ -14,18 +14,24 @@
 
 I am a self-taught developer dedicated to hardware sovereignty. I don't believe in "stock" experiences—I daily-drive my own custom kernels to ensure my hardware actually belongs to me.
 
+---
+
 # 🛠️ The Workbench
 
 - **Kernel Development:** Writing and optimizing in **C** for Android systems.
 - **Environment:** Built from the ground up in **Neovim** using a custom **Lua** configuration.
 - **Mobile First:** Developing, compiling, and deploying directly from **Termux**.
 
+---
+
 # 🔭 Currently Working On
 
-- 📱 Optimizing [ geek kernel / Qualcomn Snapdragon 675 ] for peak performance and minimal overhead.
+- 📱 Optimizing `geek kernel` / `Qualcomn Snapdragon 675` for peak performance and minimal overhead.
 - 🔧 Refining my Neovim Lua modules for a faster C-development workflow.
 - 🔧 Refining my Dotfiles for having a nice / cool development workflow.
 - 🧬 Deep-diving into memory management and scheduler tunables.
+
+---
 
 # 💬 Let's Talk About
 
