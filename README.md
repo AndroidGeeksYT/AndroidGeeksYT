@@ -41,7 +41,7 @@ I am a self-taught developer dedicated to hardware sovereignty. I don't believe 
 
 ---
 <div align="center">
-    <p>_"Trust is good, but `make zImage` is better."_</p>
+    <p>"Trust is good, but make zImage is better."</p>
 </div>
 
 <!--[Portfolio/Blog] · [LinkedIn] · [Twitter/X]-->
