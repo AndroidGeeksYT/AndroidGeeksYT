@@ -40,7 +40,8 @@ I am a self-taught developer dedicated to hardware sovereignty. I don't believe 
 - Why your stock kernel is holding your hardware back.
 
 ---
-
-_"Trust is good, but `make zImage` is better."_
+<div align="center">
+    <p>_"Trust is good, but `make zImage` is better."_</p>
+</div>
 
 <!--[Portfolio/Blog] · [LinkedIn] · [Twitter/X]-->
